@@ -21,9 +21,6 @@
 そんな目的で利用して欲しい。
 
 ## 設計書
-UIflow/ER https://app.diagrams.net/?libs=general;uml#G1edm20Li3b161L_feHxIFu7NpF6-XmUsC <br>
-テーブル https://docs.google.com/spreadsheets/d/1zJ5Oq-EE7kpSfUCersjgKRKeqzr5XpT62weRcP6O2B8/edit#gid=854641333 <br>
-
 詳細 https://docs.google.com/spreadsheets/d/1CGMksp1-HpI_VAHrL55liYAQn0XXwarNqTTvuw68GUg/edit#gid=0 
 
 ## 機能一覧
